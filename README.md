@@ -1,6 +1,7 @@
 # 画像背景除去システム
 
 AIを使用して画像の背景を自動的に除去し、新しい背景色を適用できるWebアプリケーションです。
+<img width="1337" height="630" alt="image" src="https://github.com/user-attachments/assets/e24c54c8-29f7-4a1c-8102-d6dcc878beae" />
 
 ## 機能
 
